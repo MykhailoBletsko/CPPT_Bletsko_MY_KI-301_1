@@ -1,4 +1,2 @@
 INDEX VERSION 1.134+D:\Універ\repositories\CPPT_LBS\.metadata\.plugins\org.eclipse.jdt.core
-201252537.index
-2528013755.index
 1865797976.index
